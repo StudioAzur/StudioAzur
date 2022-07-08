@@ -3,7 +3,7 @@
 
 #Hello world, I'am Anthony
 
-🐙  I'am Junior Developer who sails on the virtual oceans to become a better developer. 🐙
+🦈  I'am Junior Developer who sails on the virtual oceans to become a better developer. 🦈
 
 I am a competent person, who likes to work diligently by applying a certain polish to my deliverables.
 I enjoy discussing ideas with others and debating intelligently and seriously.
