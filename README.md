@@ -20,3 +20,4 @@ Autonomous, Team spirit, Creativity, Integrity, Emotional intelligence.
 
 ## ⚓𝐇𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬
 Computer programming: PHP, HTML/CSS, Javascript, SQL.
+Libraries, frameworks : React, Angular, Typescript
